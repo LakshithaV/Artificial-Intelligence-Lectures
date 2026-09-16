@@ -4,7 +4,6 @@ def main():
     text("## Artificial Intelligence (CSS4232/CSC4242)")
 
     what_is_ai()
-    about_this_course()
     what_is_this_program()
 
 
