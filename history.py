@@ -151,7 +151,7 @@ def foundation_models():
     text("- Models: OpenAI's o1-o4, DeepSeek's r1")
 
     text("### Industrialization of AI")
-    image("images/Industrialization-of-AI.jpg", width=400)
+    image("images/Industrialization-of-AI.png", width=400)
     
     text("GPT-4 supposedly has 1.8T parameters. "), article_link("https://www.hpcwire.com/2024/03/19/the-generative-ai-future-is-now-nvidias-huang-says")
     text("GPT-4 supposedly cost $100M to train. "), article_link("https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/")
