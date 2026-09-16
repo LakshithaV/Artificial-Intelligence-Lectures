@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/16NZHp1ismhk2RH76I9z/KwQ+qU</id>
+  <title>arXiv Query: search_query=&amp;id_list=1910.10683&amp;start=0&amp;max_results=10</title>
+  <updated>2026-09-16T16:23:27Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=1910.10683" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1910.10683v4</id>
+    <title>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</title>
+    <updated>2023-09-19T15:14:48Z</updated>
+    <link href="https://arxiv.org/abs/1910.10683v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1910.10683v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Transfer learning, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task, has emerged as a powerful technique in natural language processing (NLP). The effectiveness of transfer learning has given rise to a diversity of approaches, methodology, and practice. In this paper, we explore the landscape of transfer learning techniques for NLP by introducing a unified framework that converts all text-based language problems into a text-to-text format. Our systematic study compares pre-training objectives, architectures, unlabeled data sets, transfer approaches, and other factors on dozens of language understanding tasks. By combining the insights from our exploration with scale and our new ``Colossal Clean Crawled Corpus'', we achieve state-of-the-art results on many benchmarks covering summarization, question answering, text classification, and more. To facilitate future work on transfer learning for NLP, we release our data set, pre-trained models, and code.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-10-23T17:37:36Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Colin Raffel</name>
+    </author>
+    <author>
+      <name>Noam Shazeer</name>
+    </author>
+    <author>
+      <name>Adam Roberts</name>
+    </author>
+    <author>
+      <name>Katherine Lee</name>
+    </author>
+    <author>
+      <name>Sharan Narang</name>
+    </author>
+    <author>
+      <name>Michael Matena</name>
+    </author>
+    <author>
+      <name>Yanqi Zhou</name>
+    </author>
+    <author>
+      <name>Wei Li</name>
+    </author>
+    <author>
+      <name>Peter J. Liu</name>
+    </author>
+  </entry>
+</feed>

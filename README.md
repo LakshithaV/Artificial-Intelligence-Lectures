@@ -13,9 +13,10 @@ To run locally:
     uv sync
     python -m edtrace.execute -m welcome
 
-### Mon Sep 22: foundations (lecture 1)
+### foundations (lecture 7)
 
 - [welcome](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=welcome)
+- [history](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=history)
 
 
 
