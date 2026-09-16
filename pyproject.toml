@@ -1,5 +1,5 @@
 [project]
-name = "autumn2025-lectures"
+name = "Artificial-Intelligence-Lectures"
 version = "0.1.0"
 description = "Executable lectures for CS221 (Autumn 2025)"
 readme = "README.md"
