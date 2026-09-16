@@ -15,8 +15,7 @@ To run locally:
 
 ### Mon Sep 22: foundations (lecture 1)
 
-- [welcome](https://stanford-cs221.github.io/autumn2025-lectures/?trace=welcome)
-- [history](https://stanford-cs221.github.io/autumn2025-lectures/?trace=history)
-- [tensors](https://stanford-cs221.github.io/autumn2025-lectures/?trace=tensors)
+- [welcome](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=welcome)
+
 
 
