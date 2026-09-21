@@ -18,5 +18,9 @@ To run locally:
 - [welcome](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=welcome)
 - [history](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=history)
 
+### foundations (lecture 8)
+
+- [Search](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=search)
+
 
 
