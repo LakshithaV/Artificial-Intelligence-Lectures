@@ -26,8 +26,6 @@ def main():
     text("Example: finding the shortest path from point A to point B")
     image("images/maps.png", width=200)
 
-    text("Search is increasingly important (e.g., test-time compute in language models)!")
-    text("You just also need learning too.")
 
     # Modeling
     search_problem()
