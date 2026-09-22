@@ -272,7 +272,7 @@ def introduce_exhaustive_search():
 
     text("Assumption: there cannot be cycles (e.g., A → B → C → A)")
     text("...or else the recurrence is not well-defined (infinite loop).")
-    text("Next week, we'll see how value iteration for MDPs gets around this.")
+    text("Next week, we'll see how value iteration for (Markov Decision Processes)MDPs gets around this.")
 
     text("In the meantime:")
     text("- Add number of steps into the state (no cycles since always increment by 1).")
