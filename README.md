@@ -22,5 +22,7 @@ To run locally:
 
 - [Search](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=search)
 
+### foundations (lecture 9)
 
+- [Search](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=ucs_astar)
 
