@@ -26,3 +26,7 @@ To run locally:
 
 - [Search II](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=ucs_astar)
 
+### foundations (lecture 10)
+
+- [Search II](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=mpd)
+
