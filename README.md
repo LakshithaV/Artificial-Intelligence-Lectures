@@ -28,5 +28,5 @@ To run locally:
 
 ### foundations (lecture 10)
 
-- [Search II](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=mpd)
+- [MDP](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=mdp)
 
