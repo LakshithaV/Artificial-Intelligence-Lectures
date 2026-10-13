@@ -18,15 +18,18 @@ To run locally:
 - [welcome](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=welcome)
 - [history](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=history)
 
-### foundations (lecture 8)
+### Search I (lecture 8)
 
 - [Search](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=search)
 
-### foundations (lecture 9)
+### Search II (lecture 9)
 
 - [Search II](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=ucs_astar)
 
-### foundations (lecture 10)
+### MDPs (lecture 10)
 
 - [MDP](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=mdp)
 
+### RL (lecture 11)
+
+- [MDP](https://lakshithav.github.io/Artificial-Intelligence-Lectures/?trace=reinforcement_learning)
